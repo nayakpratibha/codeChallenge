@@ -1,0 +1,57 @@
+{
+  "listItems": [
+    {
+      "id": "1",
+      "title": "List 1",
+      "cards": [
+        {
+          "id": "1-card 1",
+          "title": "Card Title",
+          "description": "2 Gallons of milk at the Deli store"
+        },
+        {
+          "id": "1-card 2",
+          "title": "Card Title",
+          "description": "Sort out recyclable and waste as needed"
+        },
+        {
+          "id": "1-card 3",
+          "title": "Card Title",
+          "description": "Can AI make memes?"
+        },
+        {
+          "id": "1-card 4",
+          "title": "Card Title",
+          "description": "Transfer to bank account"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "List 2",
+      "cards": [
+        {
+          "id": "2-card 1",
+          "title": "Card Title",
+          "description": "Soap wash and polish floor. Polish windows and doors. Scrap all broken glasses"
+        },
+        {
+          "id": "2-card 2",
+          "title": "Card Title",
+          "description": "Completed 10km on cycle"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "List 3",
+      "cards": [
+        {
+          "id": "3-card 3",
+          "title": "Card Title",
+          "description": "Use Headspace app"
+        }
+      ]
+    }
+  ]
+}
